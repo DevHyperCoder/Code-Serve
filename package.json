@@ -1,0 +1,9 @@
+{
+  "name": "code-serve",
+  "version": "0.0.1",
+  "main": "bin/index.js",
+  "repository": "https://github.com/DevHyperCoder/Code-Serve",
+  "author": "DevHyperCoder <arduinoleo88@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
