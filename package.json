@@ -10,7 +10,7 @@
     "start": "node bin/index.js",
     "build": "tsc",
     "dev": "tsc ; node .",
-    "local": "sudo npm remove . ; sudo npm install -g ; code-serve"
+    "local": "npm remove . ; npm install -g ; code-serve -d ."
   },
   "bin": {
     "code-serve": "./bin/index.js"
